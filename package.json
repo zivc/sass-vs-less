@@ -1,0 +1,26 @@
+{
+  "name": "sass-vs-less",
+  "version": "1.0.0",
+  "description": "Just a benchmark innit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivc/sass-vs-less.git"
+  },
+  "keywords": [
+    "bants"
+  ],
+  "author": "Archbishop of Banterbury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zivc/sass-vs-less/issues"
+  },
+  "homepage": "https://github.com/zivc/sass-vs-less#readme",
+  "devDependencies": {
+    "less": "^2.5.3",
+    "node-sass": "^3.4.1"
+  }
+}
